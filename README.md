@@ -175,7 +175,7 @@ yarn build:prod        -------打包项目
  "node": ">=8.9",
 ```
 
-后端管理平台地址：https://github.com/wskang12138/healthyCommunityBackstage
+客户端地址：https://github.com/wskang12138/healthyCommunityClient
 </br>
 后端框架地址：https://github.com/wskang12138/healthyCommunityEgg
 </br>
