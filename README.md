@@ -175,8 +175,11 @@ yarn build:prod        -------打包项目
  "node": ">=8.9",
 ```
 
-客户端地址：
-后台框架地址：
+后端管理平台地址：https://github.com/wskang12138/healthyCommunityBackstage
+</br>
+后端框架地址：https://github.com/wskang12138/healthyCommunityEgg
+</br>
+后端包括完整的代码，数据库，聊天服务。
 
 This will automatically open http://localhost:9525
 
